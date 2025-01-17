@@ -18,5 +18,5 @@
 
 ## React y Zustand
 
- [<img src="https://e7.pngegg.com/pngimages/255/1006/png-clipart-react-javascript-webbylab-computer-icons-angularjs-github-text-logo.png" width=65px />]()
+ [<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=65px />]()
  [<img src="https://avatars.githubusercontent.com/u/160464953?s=200&v=4" width=65px />]()
