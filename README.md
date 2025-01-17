@@ -7,7 +7,7 @@
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="drawn.png" width="500" height="300" />
+  <img src="draw.png" width="500" height="300" />
   <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #4CAF50; font-weight: bold;">Creando tarea // creating task </p>
 </div>
 
