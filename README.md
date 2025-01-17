@@ -1,17 +1,17 @@
 ## Frontend
 
 <!-- Imágenes con texto estilizado -->
-<div style="text-align: center; margin-bottom: 20px;">
+<div align="center">
   <img src="home.png" width="500" height="300" />
   <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #333; font-weight: bold;"> Página principal // main page </p>
 </div>
 
-<div style="text-align: center; margin-bottom: 20px;">
+<div align="center">
   <img src="draw.png" width="500" height="300" />
   <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #4CAF50; font-weight: bold;"> Empate // Draw </p>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="win.png" width="500" height="300" />
   <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #FF5722; font-weight: bold;"> Ganador // Win </p>
 </div>
