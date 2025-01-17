@@ -20,10 +20,13 @@ function App() {
       SelectFigure("");
     }
 
+<<<<<<< HEAD
     if (figure[index] === null) {
       HandleClick(index);
     }
 
+=======
+>>>>>>> 29270817cf1747777ef5d8aa7ddd485a621f3931
     HandleClick(index);
   };
   const handleSelect = (value) => {
@@ -47,7 +50,10 @@ function App() {
           <Figure
             key={index}
             value={value}
+<<<<<<< HEAD
             disabled={win || !player}
+=======
+>>>>>>> 29270817cf1747777ef5d8aa7ddd485a621f3931
             onClick={() => handleOnClick(index)}
           />
         ))}
@@ -65,6 +71,7 @@ function App() {
             </>
           )}
         </div>
+<<<<<<< HEAD
         <div className={`game__init ${player ? "hidden" : ""}`}>
           <h2> ¿Who is going to start?</h2>
           <div className="init__btn">
@@ -82,6 +89,27 @@ function App() {
             />
           </div>
         </div>
+=======
+        {!player && (
+          <div className="game__init">
+            <h2> ¿Who is going to start?</h2>
+            <div className="init__btn">
+              <Button
+                onClick={() => handleSelect("X")}
+                isSelected={data === true}
+                disabled={data !== ""}
+                value="X"
+              />
+              <Button
+                onClick={() => handleSelect("O")}
+                isSelected={data === false}
+                disabled={data !== ""}
+                value="O"
+              />
+            </div>
+          </div>
+        )}
+>>>>>>> 29270817cf1747777ef5d8aa7ddd485a621f3931
       </div>
     </div>
   );
