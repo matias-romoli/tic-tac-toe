@@ -8,12 +8,12 @@
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="draw.png" width="500" height="300" />
-  <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #4CAF50; font-weight: bold;">Creando tarea // creating task </p>
+  <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #4CAF50; font-weight: bold;"> Empate // Draw </p>
 </div>
 
 <div style="text-align: center;">
   <img src="win.png" width="500" height="300" />
-  <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #FF5722; font-weight: bold;"> Tarea agregada // added task </p>
+  <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #FF5722; font-weight: bold;"> Ganador // Win </p>
 </div>
 
 ## React y Zustand
