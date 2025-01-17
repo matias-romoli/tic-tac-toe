@@ -18,9 +18,10 @@
 
 <br>
 
->Principalmente, deberás elegir quien arranca. En caso de no definir, el juego no comenzará. Posteriormente, se jugará al Tic Tac Toe. El ganador, será mostrado, cómo se vé en imagenes, en la parte de abajo. // First, you will have to choose who starts. If you do not decide, the game will not start. Afterwards, Tic Tac Toe will be played. The winner will be shown, as seen in the images, below.
+>Principalmente, se elige quien arranca. En caso de no definir, el juego no comenzará. Posteriormente, se jugará al Tic Tac Toe. El ganador, será mostrado, cómo se vé en imagenes, en la parte de abajo. Cada jugador contará con un color correspondiente al símbolo que elijan. // First, you choose who starts. If you don't decide, the game won't start. Afterwards, you'll play Tic Tac Toe. The winner will be shown, as shown in the images, below. Each player will have a color corresponding to the symbol they choose.
 
 ## React y Zustand
 
  [<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=65px />]()
  [<img src="https://avatars.githubusercontent.com/u/160464953?s=200&v=4" width=65px />]()
+
