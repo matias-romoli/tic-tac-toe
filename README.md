@@ -18,7 +18,7 @@
 
 <br>
 
->Principalmente, se elige quien arranca. En caso de no definir, el juego no comenzará. Posteriormente, se jugará al Tic Tac Toe. El ganador, será mostrado, cómo se vé en imagenes, en la parte de abajo. Cada jugador contará con un color correspondiente al símbolo que elijan. // First, you choose who starts. If you don't decide, the game won't start. Afterwards, you'll play Tic Tac Toe. The winner will be shown, as shown in the images, below. Each player will have a color corresponding to the symbol they choose.
+>Principalmente, se elige quien arranca. En caso de no definir, el juego no comenzará. Posteriormente, se jugará al Tic Tac Toe. El ganador, será mostrado, cómo se vé en imagenes, en la parte de abajo. Cada jugador contará con un color correspondiente al símbolo que elijan. First, you choose who starts. If you don't decide, the game won't start. Afterwards, you'll play Tic Tac Toe. The winner will be shown, as shown in the images, below. Each player will have a color corresponding to the symbol they choose.
 
 ## React y Zustand
 
