@@ -16,6 +16,10 @@
   <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #FF5722; font-weight: bold;"> Ganador // Win </p>
 </div>
 
+<br>
+
+>Principalmente, deberás elegir quien arranca. En caso de no definir, el juego no comenzará. Posteriormente, se jugará al Tic Tac Toe. El ganador, será mostrado, cómo se vé en imagenes, en la parte de abajo. // First, you will have to choose who starts. If you do not decide, the game will not start. Afterwards, Tic Tac Toe will be played. The winner will be shown, as seen in the images, below.
+
 ## React y Zustand
 
  [<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width=65px />]()
